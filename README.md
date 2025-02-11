@@ -36,7 +36,7 @@
 
 ## 🌎 Onde me encontrar
 
-📧 **E-mail**: [jott4pb@gmail.com](mailto:jott4pb@gmail.com)
+📧 **E-mail**: [ozzy0sdev@gmail.com](mailto:ozzy0sdev@gmail.com@gmail.com)
 
 ---
 
