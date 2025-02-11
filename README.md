@@ -21,7 +21,6 @@
 
 <div align="center">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ozzy0s&show_icons=true&theme=dark&hide_border=true" alt="Ozzy0s GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/?user=Ozzy0s&theme=dark&hide_border=true" alt="Ozzy0s GitHub Streak"/>
 </div>  
 
 <div align="center">
