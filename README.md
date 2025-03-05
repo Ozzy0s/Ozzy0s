@@ -21,8 +21,6 @@
 
 <div>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ozzy0s&show_icons=true&theme=dark&hide_border=true" alt="Ozzy0s GitHub Stats"/>
-</div>
-<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozzy0s&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Ozzy0s Top Languages"/>
 </div>  
 
