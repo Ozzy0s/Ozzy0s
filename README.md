@@ -31,6 +31,6 @@
 
 --- -->
 
-## 📧 Email para contato: [ozzy0sdev@gmail.com](mailto:ozzy0sdev@gmail.com@gmail.com)
+📧 Email para contato: [ozzy0sdev@gmail.com](mailto:ozzy0sdev@gmail.com@gmail.com)
 
 ---
