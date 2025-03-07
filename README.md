@@ -25,7 +25,6 @@
 </div>  
 
 ---
-
 <!-- ## 🚀 Projetos em Destaque  
 
 📌 [**null**](https://github.com/Ozzy0s/null) – null 📂 
@@ -34,5 +33,4 @@
 
 ## 📧 Email para contato: [ozzy0sdev@gmail.com](mailto:ozzy0sdev@gmail.com@gmail.com)
 
-
-💡 *“Código limpo é um código que é fácil de entender e modificar.”* 🚀
+---
