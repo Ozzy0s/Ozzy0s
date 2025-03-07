@@ -34,6 +34,5 @@
 
 ## 📧 Email para contato: [ozzy0sdev@gmail.com](mailto:ozzy0sdev@gmail.com@gmail.com)
 
----
 
 💡 *“Código limpo é um código que é fácil de entender e modificar.”* 🚀
