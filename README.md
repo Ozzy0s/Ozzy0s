@@ -2,7 +2,7 @@
 
 🚀 **Sou desenvolvedor PHP** apaixonado por **arquitetura limpa, código escalável e soluções eficientes**.
 
-💡 Sempre buscando inovação e melhores práticas no desenvolvimento backend e full-stack.
+💡 Sempre buscando inovação e melhores práticas no desenvolvimento backend.
 
 <br>
 
