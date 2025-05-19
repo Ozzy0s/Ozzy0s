@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Ozzy!
 
-🚀 **Sou desenvolvedor PHP** apaixonado por **arquitetura limpa, código escalável e soluções eficientes**.
+🚀 **Sou desenvolvedor apaixonado por arquitetura limpa, código escalável e soluções eficientes**.
 
 💡 Sempre buscando inovação e melhores práticas no desenvolvimento backend.
 
