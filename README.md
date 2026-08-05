@@ -3,13 +3,17 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=Bem%20vindo(a)%20ao%20meu%20perfil!" alt="Typing SVG">
   </a>
 </div>
+
 #
+
 **Me chamo Sandro, tenho 26 anos e sou natural do Rio de Janeiro**
 <br/>
 **Sou desenvolvedor apaixonado por arquitetura limpa, código escalável e soluções eficientes**.
 <br/>
 **Sempre buscando inovação e melhores práticas no desenvolvimento backend**.
+
 #
+
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:ozzy0sdev@gmail.com)
