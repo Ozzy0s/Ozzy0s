@@ -26,7 +26,7 @@ Me chamo Sandro, tenho 26 anos e sou natural do Rio de Janeiro
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-line.svg" 
 />
 
 <img 
@@ -35,7 +35,7 @@ Me chamo Sandro, tenho 26 anos e sou natural do Rio de Janeiro
     title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-line.svg" 
 />
 
 <img 
@@ -44,7 +44,7 @@ Me chamo Sandro, tenho 26 anos e sou natural do Rio de Janeiro
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-line.svg" 
 />
 
 <img
@@ -53,7 +53,7 @@ Me chamo Sandro, tenho 26 anos e sou natural do Rio de Janeiro
     title="Node.js"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-line.svg"
 />
 
 <img 
@@ -62,7 +62,16 @@ Me chamo Sandro, tenho 26 anos e sou natural do Rio de Janeiro
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-line.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Csharp" 
+    title="Csharp"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-line.svg" 
 />
 <br/>
 <br/>
@@ -86,5 +95,3 @@ Me chamo Sandro, tenho 26 anos e sou natural do Rio de Janeiro
   />
 
 </p>
-
-
