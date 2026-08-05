@@ -6,12 +6,10 @@
 
 #
 
-**Me chamo Sandro, tenho 26 anos e sou natural do Rio de Janeiro**
-<br/>
-**Sou desenvolvedor apaixonado por arquitetura limpa, código escalável e soluções eficientes**.
-<br/>
-**Sempre buscando inovação e melhores práticas no desenvolvimento backend**.
-
+Me chamo Sandro, tenho 26 anos e sou natural do Rio de Janeiro
+🚀 **Sou desenvolvedor apaixonado por arquitetura limpa, código escalável e soluções eficientes**.
+💡 Sempre buscando inovação e melhores práticas no desenvolvimento backend.
+ 
 #
 
 <h3 align="left">Connect with me!</h3>
@@ -60,6 +58,15 @@
 
 <img 
     align="left" 
+    alt="Csharp" 
+    title="Csharp"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -67,14 +74,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Csharp" 
-    title="Csharp"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
 <br/>
 <br/>
 
