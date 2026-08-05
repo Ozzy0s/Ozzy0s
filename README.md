@@ -13,8 +13,8 @@
 ## 📊 Estatísticas do GitHub
 
 <div>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ozzy0s&show_icons=true&theme=dark&hide_border=true" alt="Ozzy0s GitHub Stats"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozzy0s&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Ozzy0s Top Languages"/>  
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=Ozzy0s&show_icons=true&theme=dark&hide_border=true](https://camo.githubusercontent.com/63818b1732fe2cf6bad03b028658f9606e1f6a3d0cbd2996a9cc2a79793d064c/68747470733a2f2f6769746875622d73746174732d657874656e6465642e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a7261)" alt="Ozzy0s GitHub Stats"/>  
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Ozzy0s&layout=compact&langs_count=8&theme=dark&hide_border=true](https://camo.githubusercontent.com/a26224c6d0d36f711bbbb54dda65acac4f2548d205f29c9205ba35fbfb2b3c9e/68747470733a2f2f6769746875622d73746174732d657874656e6465642e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c616e67735f636f756e743d34)" alt="Ozzy0s Top Languages"/>  
 </div>
 
 <br>
