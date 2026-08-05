@@ -26,7 +26,7 @@ Me chamo Sandro, tenho 26 anos e sou natural do Rio de Janeiro
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" 
 />
 
 <img 
@@ -34,8 +34,8 @@ Me chamo Sandro, tenho 26 anos e sou natural do Rio de Janeiro
     alt="PHP" 
     title="PHP"
     width="30px" 
-    style="padding-right: 10px; color: blue;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 
 <img 
