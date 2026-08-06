@@ -6,9 +6,11 @@
 
 #
 
-Me chamo Sandro, tenho 26 anos e sou natural do Rio de Janeiro
-🚀 **Sou desenvolvedor apaixonado por arquitetura limpa, código escalável e soluções eficientes**.
-💡 Sempre buscando inovação e melhores práticas no desenvolvimento backend.
+**Me chamo Sandro, tenho 26 anos e sou natural do Rio de Janeiro**.
+<br/>
+**Sou desenvolvedor apaixonado por arquitetura limpa, código escalável e soluções eficientes**.
+<br/>
+**Sempre buscando inovação e melhores práticas no desenvolvimento backend**.
  
 #
 
